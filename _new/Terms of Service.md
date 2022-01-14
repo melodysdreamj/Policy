@@ -1,6 +1,6 @@
 Last updated
 
-February 18 2020
+February 18 2021
 
 Privacy Policy
 ==============
@@ -119,6 +119,6 @@ In the case where the contents of this Privacy Policy are added, deleted, or mod
 
 However, if a significant change in the user's rights occurs, such as a change in 'Collected Items,' or 'Purpose of Use,' the user shall be notified of the change at least 30 days in advance, and the user's consent may be obtained again if required.
 
-Date of Announcement: January 13rd, 2020
+Date of Announcement: February 13rd, 2021
 
-Date of Implementation: February 23rd. 2020
+Date of Implementation: February 23rd. 2021
