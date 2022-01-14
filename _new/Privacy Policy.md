@@ -1,6 +1,6 @@
 Last updated
 
-February 18 2020
+February 18 2021
 
 Terms of Service
 ================
@@ -49,4 +49,4 @@ We will post any privacy policy changes on this page and, if the changes are sig
 
 If you have any questions regarding the service of NewProjectName, please feel free to contact our customer support center at newEmail@gmail.com. In relation to the use of service, NewProjectName may send you e-mails with service notices, management messages, and other information. You may refuse to receive such messages.
 
-This Privacy Policy will be effective from June 22th 2019.
+This Privacy Policy will be effective from February 22th 2021.
