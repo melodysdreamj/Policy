@@ -1,13 +1,13 @@
 Last updated
 
-February 18 2020
+February 18 2021
 
 Privacy Policy
 ==============
 
 ### 0\. Basic Principle
 
-NewProjectName places the personal information of our customers as a top priority, and under no circumstances does the customers' personal information will be used for marketing purposes. NewProjectName will not share the personal information of our customers with third parties in any case other than infrastructure maintenance.
+Humuhumu places the personal information of our customers as a top priority, and under no circumstances does the customers' personal information will be used for marketing purposes. Humuhumu will not share the personal information of our customers with third parties in any case other than infrastructure maintenance.
 
 ### 1\. Purpose of Privacy Policy
 
@@ -15,7 +15,7 @@ The company has written this Privacy Policy based on Promotion of Information Ne
 
 The implications of the following Privacy Policy are as follows.
 
--   It transparently provides information related to what kind of information we ('NewProjectName') gather, how the information is used, to whom the information will be shared (either 'consignment' or 'provided'), and when/how the information is destroyed after it has achieved its purpose of use.
+-   It transparently provides information related to what kind of information we ('Humuhumu') gather, how the information is used, to whom the information will be shared (either 'consignment' or 'provided'), and when/how the information is destroyed after it has achieved its purpose of use.
 
 -   As the provider of the information, the users will be informed of the rights they have over their personal information, and how they could exercise such rights. In addition, in the event of a personal information breach, the Privacy Policy will tell the users whom they could contact to prevent further damage and recover from the damage that has already occurred.
 
@@ -111,7 +111,7 @@ Department: Security Team
 
 Position: DPO
 
-E-Mail: newEmail@gmail.com
+E-Mail: humuhumuapp@gmail.com
 
 ### 8\. Duty of Notification Prior to Revision
 
@@ -119,6 +119,6 @@ In the case where the contents of this Privacy Policy are added, deleted, or mod
 
 However, if a significant change in the user's rights occurs, such as a change in 'Collected Items,' or 'Purpose of Use,' the user shall be notified of the change at least 30 days in advance, and the user's consent may be obtained again if required.
 
-Date of Announcement: January 13rd, 2020
+Date of Announcement: February 13rd, 2021
 
-Date of Implementation: February 23rd. 2020
+Date of Implementation: February 23rd. 2021
