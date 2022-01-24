@@ -1,13 +1,13 @@
 Last updated
 
-February 18 2021
+January 25 2022
 
 Privacy Policy
 ==============
 
 ### 0\. Basic Principle
 
-NewProjectName places the personal information of our customers as a top priority, and under no circumstances does the customers' personal information will be used for marketing purposes. NewProjectName will not share the personal information of our customers with third parties in any case other than infrastructure maintenance.
+Prevent Screen Off places the personal information of our customers as a top priority, and under no circumstances does the customers' personal information will be used for marketing purposes. Prevent Screen Off will not share the personal information of our customers with third parties in any case other than infrastructure maintenance.
 
 ### 1\. Purpose of Privacy Policy
 
@@ -15,7 +15,7 @@ The company has written this Privacy Policy based on Promotion of Information Ne
 
 The implications of the following Privacy Policy are as follows.
 
--   It transparently provides information related to what kind of information we ('NewProjectName') gather, how the information is used, to whom the information will be shared (either 'consignment' or 'provided'), and when/how the information is destroyed after it has achieved its purpose of use.
+-   It transparently provides information related to what kind of information we ('Prevent Screen Off') gather, how the information is used, to whom the information will be shared (either 'consignment' or 'provided'), and when/how the information is destroyed after it has achieved its purpose of use.
 
 -   As the provider of the information, the users will be informed of the rights they have over their personal information, and how they could exercise such rights. In addition, in the event of a personal information breach, the Privacy Policy will tell the users whom they could contact to prevent further damage and recover from the damage that has already occurred.
 
@@ -111,7 +111,7 @@ Department: Security Team
 
 Position: DPO
 
-E-Mail: newEmail@gmail.com
+E-Mail: screennotoff@gmail.com
 
 ### 8\. Duty of Notification Prior to Revision
 
